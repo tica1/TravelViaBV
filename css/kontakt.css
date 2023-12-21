@@ -44,11 +44,20 @@
 }
 
 .forma input {
-    width: 30%;
+    width: 50%;
     font-size: 1em;
     background-color: #e7e3d9;
     margin-bottom: 10px;
     color: #655b66cc;
+}
+
+.forma button {
+    width: 50%;
+    font-size: 1em;
+    background-color: #e7e3d9;
+    margin-bottom: 10px;
+    color: #655b66cc;
+    margin-top: 30px;
 }
 
 .svikontakti {
@@ -107,6 +116,9 @@
         margin: auto;
     }
     .forma input {
+        width: 80%;
+    }
+    .forma button {
         width: 80%;
     }
 }
